@@ -1,0 +1,9 @@
+{
+    "domain": "my.awesome.domain.tld",
+    "country": "GB",
+    "state": "Farnborough",
+    "locality": "Hampshire",
+    "organization": "My Awesome Company",
+    "organizational_unit": "IT Wizards",
+    "common_name": "My Awesome CA"
+}
