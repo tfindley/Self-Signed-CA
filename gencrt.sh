@@ -99,7 +99,7 @@ cp $CA_PEM $CHAIN_FILE
 echo "done"
 
 echo -n "Assemble Full Chain... "
-cat $NEW_CRT $CA_PEM > $FCHAIN_FILE
+cat $CRT_FILE $CA_PEM > $FCHAIN_FILE
 echo "done"
 
 echo ""
